@@ -15,11 +15,11 @@ To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine using:
 
-git clone https://github.com/your-username/music-player-web.git
+git clone [https://github.com/your-username/music-player-web.git](https://github.com/hoshikwyw/FCC_MusicPlayer.git)
 
 2. Navigate into the project directory:
 
-cd music-player-web
+cd FCC_MusicPlayer
 
 3. Open the `index.html` file in your web browser.
 
